@@ -4,4 +4,7 @@ Oxygen theme with new Hand scan splash screen. QML file completely rewritten for
 to Install the splash in PClinuxOS copy the file to the desktop and unpack it to your /home/user xxx/.local/share/plasma/look-and-feel/oxygen-future/ folder if it doesn't exist create the folder first.
 
 
-To install the theme in PClinuxOS copy the file to the desktop and unpack it to your /home/xxx user xxx/.local/share/plasma/look-and-feel/folder. Theme and splash will be added to the themes available in System Settings.
+To install the look asnd feel theme in PClinuxOS copy the file to the desktop and unpack it to your /home/xxx user xxx/.local/share/plasma/look-and-feel/ folder. Theme and splash will be added to the themes available in System Settings.
+
+
+To install the Desktop theme in PClinuxOS copy the file to the desktop and unpack it to your /home/xxx user xxx/.local/share/plasma/desktoptheme/ folder. Theme and splash will be added to the themes available in System Settings.
